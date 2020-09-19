@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical 2</string>
+    <string name="enter_1st_number">Enter 1st number</string>
+    <string name="enter_2nd_number">Enter 2nd number</string>
+</resources>
